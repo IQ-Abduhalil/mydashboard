@@ -1,0 +1,11 @@
+.DashboardWrapper {
+  max-width: 280px;
+  padding: 20px;
+  background-color: rgb(113, 221, 198);
+}
+
+.Preferences_Item:hover {
+  transition: ease-in-out infinite linear;
+  padding: 4px;
+  background-color: rgb(130, 244, 206);
+}
